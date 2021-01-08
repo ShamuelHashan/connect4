@@ -1,0 +1,13 @@
+C:\Users\shamu\source\repos\c4\c4\bin\Debug\netcoreapp3.1\c4.exe
+C:\Users\shamu\source\repos\c4\c4\bin\Debug\netcoreapp3.1\c4.deps.json
+C:\Users\shamu\source\repos\c4\c4\bin\Debug\netcoreapp3.1\c4.runtimeconfig.json
+C:\Users\shamu\source\repos\c4\c4\bin\Debug\netcoreapp3.1\c4.runtimeconfig.dev.json
+C:\Users\shamu\source\repos\c4\c4\bin\Debug\netcoreapp3.1\c4.dll
+C:\Users\shamu\source\repos\c4\c4\bin\Debug\netcoreapp3.1\c4.pdb
+C:\Users\shamu\source\repos\c4\c4\obj\Debug\netcoreapp3.1\c4.csprojAssemblyReference.cache
+C:\Users\shamu\source\repos\c4\c4\obj\Debug\netcoreapp3.1\c4.AssemblyInfoInputs.cache
+C:\Users\shamu\source\repos\c4\c4\obj\Debug\netcoreapp3.1\c4.AssemblyInfo.cs
+C:\Users\shamu\source\repos\c4\c4\obj\Debug\netcoreapp3.1\c4.csproj.CoreCompileInputs.cache
+C:\Users\shamu\source\repos\c4\c4\obj\Debug\netcoreapp3.1\c4.dll
+C:\Users\shamu\source\repos\c4\c4\obj\Debug\netcoreapp3.1\c4.pdb
+C:\Users\shamu\source\repos\c4\c4\obj\Debug\netcoreapp3.1\c4.genruntimeconfig.cache

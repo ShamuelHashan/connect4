@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\shamu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\shamu\\.nuget\\packages"
+    ]
+  }
+}
